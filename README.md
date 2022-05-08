@@ -17,3 +17,10 @@ Test Designed to Test Web API Controllers for Following
 ## Test Types
 
 Test Project is an X Unit Test Projecct with MOQ Nuget Package added for testing for mocking of data.
+
+## Useful links
+XUnit Testing Website, with detailed exams for those new to Unit Testing. 
+[XUnit Testing HomePage](https://xunit.net/) 
+
+Tim Coery Youtube video on X Unit Testing, Tim is online educator who specialses in the c# and .Net Enviorment Stack
+[Tim Corey XUnit Video Tutorial ](https://www.youtube.com/watch?v=ub3P8c87cwk)
