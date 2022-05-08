@@ -2,8 +2,8 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/brianreville/OSBookReviewTests?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/brianreville/OSBookReviewTests?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/brianreville/OSBookReviewTests?style=for-the-badge) 
-
+![GitHub stars](https://img.shields.io/github/stars/brianreville/OSBookReviewTests?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/brianreville/OSBookReviewTests?style=for-the-badge) 
 
 ![GitHub license](https://img.shields.io/github/license/brianreville/OSBookReviewTests?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/brianreville/OSBookReviewTests?style=for-the-badge)
